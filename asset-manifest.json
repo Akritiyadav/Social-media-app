@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/social-app/static/css/main.f767a0eb.css",
+    "main.js": "/social-app/static/js/main.0082d221.js",
+    "index.html": "/social-app/index.html",
+    "main.f767a0eb.css.map": "/social-app/static/css/main.f767a0eb.css.map",
+    "main.0082d221.js.map": "/social-app/static/js/main.0082d221.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f767a0eb.css",
+    "static/js/main.0082d221.js"
+  ]
+}
